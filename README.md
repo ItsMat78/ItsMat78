@@ -1,8 +1,10 @@
 # Hi, I'm Shreyash
 
-Third-year @ IIIT Naya Raipur. I'm currently learning the machine-learning stack properly. I solve problems. Most of what's below started as *"wait, can I actually build that?"*
+- Third-year @ IIIT Naya Raipur.
+- I'm currently learning the machine-learning stack properly.
+- I solve problems. Most of what's below started as *"wait, can I actually build that?"*
 
-I mostly type Python and C++, and care more about understanding *why* something works than getting it to pass.
+- I mostly type Python and C++, and care more about understanding *why* something works than getting it to pass.
 
 ## Things I've built
 
