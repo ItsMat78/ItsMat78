@@ -23,8 +23,3 @@ I type in Python and C++, and care more about understanding *why* something work
 ## Writing
 
 I'm currently building **[shreyashrai.com](https://shreyashrai.com)** into a place for writeups and short notes. The things I figure out while building, written down while they're fresh.
-
-## Reach me
-
-- Email — contact@shreyashrai.com
-- LinkedIn — [Shreyash Rai](https://www.linkedin.com/in/shreyash-rai-3aa123251/)
